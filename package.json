@@ -1,6 +1,6 @@
 {
   "name": "delaunay-triangulation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Computes the Delaunay triangulation of a set of 2D points maximizing minimum angles using Bowyer-Watson insertion.",
   "type": "module",
   "main": "src/index.js",
